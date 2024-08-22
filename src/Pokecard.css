@@ -1,0 +1,17 @@
+.pokemon {
+    text-align: center;
+    background-color: lightgray;
+    border-radius: 10px;
+    padding: 1em;
+    margin: 1em;
+    display: inline-block;
+}
+.pokemon ul {
+    list-style-type: none;
+    padding-right: 50px;
+}
+
+.pokecard-title {
+    color: red;
+    text-align: center;
+}
